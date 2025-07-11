@@ -34,21 +34,6 @@ This project follows a complete Excel-based analytics pipeline:
 
 <br/>
 
-## Folder Structure
-
-- databel_churn_analysis_excel/
-
-  - Analysis/
-    - Databel-churn-analysis.xlsx
-
-  - Presentation/
-    - Databel-churn-presentation.pptx
-    - Databel-churn-presentation.pdf
-
-  - README.md
- 
-<br/>
-
 ## Key Insights
 
 - **Top churn driver**: Customers leaving for competitors
