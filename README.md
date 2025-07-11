@@ -93,4 +93,4 @@ The presentation outlines the analysis and recommendations in a format suitable 
 ## Contact
 
 Lana Trimmer<br/>
-[LinkedIn](https://www.linkedin.com/in/lana-trimmer/) • [Portfolio](#) • [Email](lana.trimmer32@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/lana-trimmer/) • [Portfolio](https://ltrimmer.carrd.co/) • [Email](lana.trimmer32@gmail.com)
