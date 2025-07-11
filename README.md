@@ -2,7 +2,7 @@
 
 This project investigates the drivers of customer churn for a fictitious telecom company, **Databel**, using Excel-based analysis and executive reporting. It walks through data cleaning, transformation, and churn segmentation to provide actionable business recommendations.
 
-> For full insights and recommendations, see the [PowerPoint Presentation](./presentation/Databel-churn-presentation.pptx) with speaker notes.
+> For full insights and recommendations, see the [PowerPoint Presentation](./Databel-churn-presentation.pptx) with speaker notes.
 <br/>
 
 
