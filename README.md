@@ -8,7 +8,7 @@ This project investigates the drivers of customer churn for a fictitious telecom
 
 ## Business Question
 
-**Why are customers leaving Databel, and what strategies can help reduce churn and improve retention?**
+**Why are customers leaving Databel and what strategies can help reduce churn and improve retention?**
 
 This case study simulates a real-world scenario to uncover churn drivers using customer and aggregate-level data. The goal is to provide Databel's executive team with clear, actionable insights.
 
